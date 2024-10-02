@@ -16,14 +16,15 @@
   width:  400px;
   height: 430px;
   border-radius: 20px;
-  background-color: goldenrod;
+  background-color: black;
   color: white;
   text-align: center;
+  cursor: pointer;
   
 }
 .card:hover{
- color: black;
-
+background-color: white;
+color: black;
 }
 img{
   height: 130px;
